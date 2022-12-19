@@ -14,6 +14,13 @@ Work finished: yyyy-mm
 published: [y/n]
 citation (APA): [citation/NA]
 
+## Cite this data  <!--bibtex -->
+```
+@{
+    ...
+}
+```
+
 ## project info
 
 n_participants: 
@@ -27,3 +34,4 @@ data type(s): [e.g., EEG, behavioural, demographics, skin conductance, fMRI]
 ## comments
 [deviations from template]
 [lessons from project execution]
+
