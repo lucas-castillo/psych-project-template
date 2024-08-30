@@ -5,6 +5,9 @@ The project is headed and maintained by [Lead Name], please contact at [Uni emai
 ## Questions & Aims
 [main aims or research questions]
 
+## Abstract
+...
+
 
 ## Metadata
 
