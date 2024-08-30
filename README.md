@@ -1,6 +1,6 @@
-This file belongs to project with code [3-letter code], formally titled: [e.g., the philosophy of conscious contemplation and contemplative consciousness].
+This repository belongs to project: [project title]. 
 
-The project is headed and maintained by [initials], please contact at [Uni email; permanent email].
+The project is headed and maintained by [Lead Name], please contact at [Uni email; permanent email].
 
 ## Questions & Aims
 [main aims or research questions]
